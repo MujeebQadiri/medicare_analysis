@@ -14,13 +14,7 @@ Medicare is the U.S. federal health insurance program for people aged 65 and old
 
 ## Running the Dashboard
 
-```bash
-# Install dependencies
-pip install -e .
-
-# Launch the app
-streamlit run dashboard/app.py
-```
+https://medicare-part-d-spending.streamlit.app/
 
 ---
 
