@@ -9,5 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
-# Data files
-data/
+# Data files — exclude raw source files, keep the CSVs the app needs
+data/2023/
+data/*.zip
+.DS_Store
+notebooks/.DS_Store
