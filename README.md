@@ -1,6 +1,6 @@
 # Medicare Part D Drug Spending Dashboard
 
-This dashboard provides a transparent, interactive look at how the U.S. government allocated funds for Medicare Part D prescriptions between 2019 and 2023, allowing users to filter and visualize spending trends across various drug categories. This project was born out of a curiosity for public health economics and a desire to turn "raw data" into a clear, visual narrative. It was also a great exercise in end-to-end data work ingesting CMS claims data, enriching it via external APIs, and building out interactive visualizations across multiple dimensions. 
+This dashboard provides a transparent, interactive look at how the U.S. government allocated funds for Medicare Part D prescriptions between 2019 and 2023, allowing users to filter and visualize spending trends across various drug categories. This project was born out of a curiosity for public health economics and a desire to turn "raw data" into a clear, visual narrative. It was also a great exercise in end-to-end data work ingesting CMS claims data, enriching it via external APIs, and building out interactive visualizations across multiple dimensions.
 
 <img width="800" height="379" alt="demo_partdspend" src="https://github.com/user-attachments/assets/48bc929c-753f-4bc3-b961-e50c9bcd3fed" />
 
